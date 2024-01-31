@@ -1,0 +1,19 @@
+public class some {
+    public string name;
+    public string age;
+}
+
+public class some2 {
+    public string name;
+    public string age;
+}
+
+void main() {
+    some s = new some();
+    s.name = "JDKH@2343";
+    s.age = 10;
+
+    bool isTrue = some == some2;
+
+    print(s);
+}
