@@ -3,7 +3,8 @@
 .add-button{
     background-color: #04AA6D;
     border: none;
-    color: white;
+    color: rgb(196, 17, 17); 
+    
     padding: 15px 32px;
     text-align: center;
     text-decoration: none;
